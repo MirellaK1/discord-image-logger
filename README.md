@@ -1,16 +1,3 @@
-# 📸 Discord Image Logger [ARCHIVED]
-
-**This project has been archived!** A V2 version with bugfixes, selfhosting capabilities, a better hosting platform, and more features will be coming soon!
-
-**Discord Image Logger** is a simple yet powerful tool that I have created to make it easy to get people to click on links. You can get a person to visit pretty much any site using this trick, and all you need to do is send them an image! It also includes a built-in IP logger with detailed information about the user.
-
-Please note that this is **NOT** a "one click" image logger. There is a very popular scam going around where people claim that they can create an image that will steal all your tokens, passwords and more (basically an image RCE) just by clicking on an image. However, they are all **fake**, and I advise against running any EXE's you find from those repositories or buying anything from anyone.
-
-**If you're going to fork this repository, star it too while you're at it!**
-
-Stuck? Try the [Video Tutorial!](https://www.youtube.com/watch?v=rFbiW2x4HEw) <br>
-For updates and events, you should join the [Discord!](https://discord.gg/Shb47XpQxq)
-
 # 📚 Table of Contents
 * [Introduction](#-discord-image-logger) <br>
 * [Features](#-features) <br>
